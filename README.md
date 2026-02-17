@@ -23,4 +23,13 @@ FNP operates in a highly emotional and occasion-driven market. From a strategic 
 
 Answering these questions enables better operational planning, marketing positioning, and inventory optimization.
 
+## Analysis & Findings
 
+* Key Metrics
+- Total Orders: 1,000+
+
+- Average Delivery Gap: 5.5 Days
+
+- Same-Day Delivery Share: 4%
+
+- 4+ Day Delivery Share: 76%
