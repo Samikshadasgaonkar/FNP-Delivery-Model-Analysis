@@ -25,7 +25,9 @@ Answering these questions enables better operational planning, marketing positio
 
 ## Analysis & Findings
 
-* Key Metrics
+### Overall Delivery Model Assessment
+
+* Key Metrics:-
   - Total Orders: 1,000+
 
   - Average Delivery Gap: 5.5 Days
@@ -33,3 +35,66 @@ Answering these questions enables better operational planning, marketing positio
   - Same-Day Delivery Share: 4%
 
   - 4+ Day Delivery Share: 76%
+
+* Key Insights:-
+  - More than 76% of orders are delivered after 4+ days, indicating strong advance planning behavior.
+
+  - Same-day delivery accounts for only ~4%, showing it is not a core operational model.
+
+  - Orders peak during gifting months, yet delivery timelines remain largely planned.
+
+  - The average 5.5-day gap reinforces a structured fulfillment system rather than urgent dispatch logistics.
+
+* Conclusion
+  - FNP primarily operates as a planned gifting and scheduled delivery platform, not a rapid same-day logistics company.
+
+### City-Level Delivery Dependence
+
+* Key Observations:-
+
+  - High-volume cities show an average 84% reliance on 4+ day deliveries.
+
+  - 69% of total orders originate from cities with high 4+ day dependency.
+
+  - Serampore and similar cities exhibit extreme concentration of planned deliveries.
+
+  * Key Insights
+    - Long delivery timelines are systematic, not exceptional.
+
+    - Planned delivery forms the backbone of operations across high-volume cities.
+
+    - The logistics model is optimized for structured scheduling rather than rapid dispatch.
+
+  * Conclusion
+    - FNP’s logistics strategy is heavily optimized around advance scheduling, especially in high-volume cities.
+
+  ### Where Same-Day Delivery Makes Sense
+
+* Key Metrics
+
+  - Overall Same-Day Share: 4%
+
+  - Same-Day Orders in Last 10% of Orders: 0%
+
+* Key Insights
+
+  - Same-day delivery remains a selective capability rather than a fulfillment backbone.
+
+  - Same-day demand is strongest for emotion-driven occasions:
+
+    - Valentine’s Day
+
+    - Raksha Bandhan
+
+    - Birthdays
+
+  - Large planned festivals (eg., Diwali, Holi) show lower same-day demand.
+
+  - Certain cities demonstrate higher same-day adoption, but not at scale.
+
+* Conclusion
+
+  - Same day delivery is a strategic, occasion-driven feature, not a scalable core model for FNP.
+  
+    
+
