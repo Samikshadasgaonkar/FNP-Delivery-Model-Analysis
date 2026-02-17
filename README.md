@@ -3,21 +3,21 @@
 A Data-Driven Evaluation of Planned vs Same-Day Delivery Strategy
 
 ## Table of content
-- <a href="#Executive Summary">Executive Summary</a>
-- <a href="#Business Problem">Business Problem</a>
-- <a href="Analysis & Finidngs">Analysis & Finidngs</a>
-- <a href="Tools & Technologies used">Tools & Technologie used</a>
-- <a href="Business Conclusion">Business Conclusion</a>
-- <a href="Fututre Scope">Fututre Scope</a>
+- <a href="#executive-summary">Executive Summary</a>
+- <a href="#business-poblem">Business Problem</a>
+- <a href="#analysis-&-finidngs">Analysis & Finidngs</a>
+- <a href="#tools-&-technologies-used">Tools & Technologie used</a>
+- <a href="#business-conclusion">Business Conclusion</a>
+- <a href="#fututre-scope">Fututre Scope</a>
 
-<h2><a class="anchor" id="Executive Summary"></a>Executive Summary</h2>
+<h2><a class="anchor" id="executive-summary"></a>Executive Summary</h2>
 
 This project analyzes FNP’s delivery ecosystem to determine whether the company operates primarily as a same-day logistics provider or a planned gifting platform.
 Using order-level delivery timelines, city-level distribution, and occasion-based demand patterns, the analysis reveals that:
 
 >FNP is fundamentally a planned delivery business, with same-day fulfillment functioning as a selective, emotion-driven capability rather than a core operational model.
 
-<h2><a class="anchor" id="Business Problem"></a>Business Problem</h2>
+<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 FNP operates in a highly emotional and occasion-driven market. From a strategic perspective, it is critical to understand:
 
@@ -31,7 +31,7 @@ FNP operates in a highly emotional and occasion-driven market. From a strategic 
 
 Answering these questions enables better operational planning, marketing positioning, and inventory optimization.
 
-<h2><a class="anchor" id="Analysis & Findings"></a>Analysis & Findings</h2>
+<h2><a class="anchor" id="analysis-&-findings"></a>Analysis & Findings</h2>
 
 ### Overall Delivery Model Assessment
 
@@ -105,7 +105,7 @@ Answering these questions enables better operational planning, marketing positio
   - Same day delivery is a strategic, occasion-driven feature, not a scalable core model for FNP.
 
   
-<h2><a class="anchor" id="Tools & TEchnologies Used"></a>Tools & Technologies Used</h2>
+<h2><a class="anchor" id="tools-&-technologies Used"></a>Tools & Technologies Used</h2>
 
 * Power BI (Dashboard Visualization)
 
@@ -115,7 +115,7 @@ Answering these questions enables better operational planning, marketing positio
 
 * Data Modeling & KPI Analysis
 
-<h2><a class="anchor" id="Business Conclusions"></a>Business Conclusions</h2>
+<h2><a class="anchor" id="business-conclusions"></a>Business Conclusions</h2>
 
 * FNP’s True Operating Model
 
