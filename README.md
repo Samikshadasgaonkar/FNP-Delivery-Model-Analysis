@@ -2,7 +2,7 @@
 
 A data driven analysis to understand whether FNP operates primarily as a Planned delivery service or a Same Day fulfillment business.
 
-##Project Overview
+**Project Overview
 
 This project analyzes FNP’s delivery patterns across cities, occasions, and timelines to evaluate:
 
