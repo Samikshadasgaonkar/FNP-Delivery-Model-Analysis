@@ -4,10 +4,10 @@ A Data-Driven Evaluation of Planned vs Same-Day Delivery Strategy
 
 ## Table of content
 - <a href="#executive-summary">Executive Summary</a>
-- <a href="#business-poblem">Business Problem</a>
-- <a href="#analysis-&-finidngs">Analysis & Finidngs</a>
-- <a href="#tools-&-technologies-used">Tools & Technologie used</a>
-- <a href="#business-conclusion">Business Conclusion</a>
+- <a href="#business-problem">Business Problem</a>
+- <a href="#analysis-&-finidngs">Analysis & Findings</a>
+- <a href="#tools-&-technologies-used">Tools & Technologies Used</a>
+- <a href="#business-conclusion">Business Conclusions</a>
 - <a href="#fututre-scope">Fututre Scope</a>
 
 <h2><a class="anchor" id="executive-summary"></a>Executive Summary</h2>
