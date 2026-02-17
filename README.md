@@ -58,7 +58,7 @@ Answering these questions enables better operational planning, marketing positio
 
   - Serampore and similar cities exhibit extreme concentration of planned deliveries.
 
-  * Key Insights
+* Key Insights
     - Long delivery timelines are systematic, not exceptional.
 
     - Planned delivery forms the backbone of operations across high-volume cities.
