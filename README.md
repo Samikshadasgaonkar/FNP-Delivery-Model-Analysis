@@ -13,13 +13,13 @@ Using order-level delivery timelines, city-level distribution, and occasion-base
 
 FNP operates in a highly emotional and occasion-driven market. From a strategic perspective, it is critical to understand:
 
-. Is FNP positioned as a same-day logistics company?
+* Is FNP positioned as a same-day logistics company?
 
-. Or is it primarily a planned gifting platform?
+* Or is it primarily a planned gifting platform?
 
-. Where does same-day delivery actually create value?
+* Where does same-day delivery actually create value?
 
-. How concentrated is reliance on longer delivery timelines?
+* How concentrated is reliance on longer delivery timelines?
 
 Answering these questions enables better operational planning, marketing positioning, and inventory optimization.
 
