@@ -26,10 +26,10 @@ Answering these questions enables better operational planning, marketing positio
 ## Analysis & Findings
 
 * Key Metrics
-- Total Orders: 1,000+
+  - Total Orders: 1,000+
 
-- Average Delivery Gap: 5.5 Days
+  - Average Delivery Gap: 5.5 Days
 
-- Same-Day Delivery Share: 4%
+  - Same-Day Delivery Share: 4%
 
-- 4+ Day Delivery Share: 76%
+  - 4+ Day Delivery Share: 76%
