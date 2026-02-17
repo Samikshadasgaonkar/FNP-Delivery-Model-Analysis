@@ -45,7 +45,7 @@ Answering these questions enables better operational planning, marketing positio
 
   - The average 5.5-day gap reinforces a structured fulfillment system rather than urgent dispatch logistics.
 
-* Conclusion
+* Conclusion:-
   - FNP primarily operates as a planned gifting and scheduled delivery platform, not a rapid same-day logistics company.
 
 ### City-Level Delivery Dependence
@@ -58,25 +58,25 @@ Answering these questions enables better operational planning, marketing positio
 
   - Serampore and similar cities exhibit extreme concentration of planned deliveries.
 
-* Key Insights
+* Key Insights:-
     - Long delivery timelines are systematic, not exceptional.
 
     - Planned delivery forms the backbone of operations across high-volume cities.
 
     - The logistics model is optimized for structured scheduling rather than rapid dispatch.
 
-  * Conclusion
+* Conclusion:-
     - FNP’s logistics strategy is heavily optimized around advance scheduling, especially in high-volume cities.
 
-  ### Where Same-Day Delivery Makes Sense
+### Where Same-Day Delivery Makes Sense
 
-* Key Metrics
+* Key Metrics:-
 
   - Overall Same-Day Share: 4%
 
   - Same-Day Orders in Last 10% of Orders: 0%
 
-* Key Insights
+* Key Insights:-
 
   - Same-day delivery remains a selective capability rather than a fulfillment backbone.
 
@@ -92,9 +92,40 @@ Answering these questions enables better operational planning, marketing positio
 
   - Certain cities demonstrate higher same-day adoption, but not at scale.
 
-* Conclusion
+* Conclusion:-
 
   - Same day delivery is a strategic, occasion-driven feature, not a scalable core model for FNP.
+
   
-    
+## Tools & Technologies Used
+
+* Power BI (Dashboard Visualization)
+
+* Excel
+  
+* DAX / Calculated Metrics
+
+* Data Modeling & KPI Analysis
+
+## Business Conclusions
+
+* FNP’s True Operating Model
+
+  - FNP is best described as:
+
+    > A planned gifting platform with selective same-day capabilities
+
+  - Not:
+
+    > A high-speed same-day logistics provider.
+
+## Future Scope
+
+* Analyze profitability by delivery type.
+
+* Evaluate operational cost differences between same-day and planned deliveries.
+
+* Customer segmentation based on urgency behavior.
+
+* Predictive modeling for high-demand emotional occasions.
 
