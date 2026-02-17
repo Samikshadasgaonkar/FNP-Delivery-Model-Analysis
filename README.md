@@ -9,5 +9,18 @@ Using order-level delivery timelines, city-level distribution, and occasion-base
 
 >FNP is fundamentally a planned delivery business, with same-day fulfillment functioning as a selective, emotion-driven capability rather than a core operational model.
 
+## Business Problem
+
+FNP operates in a highly emotional and occasion-driven market. From a strategic perspective, it is critical to understand:
+
+. Is FNP positioned as a same-day logistics company?
+
+. Or is it primarily a planned gifting platform?
+
+. Where does same-day delivery actually create value?
+
+. How concentrated is reliance on longer delivery timelines?
+
+Answering these questions enables better operational planning, marketing positioning, and inventory optimization.
 
 
