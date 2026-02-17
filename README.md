@@ -1,17 +1,13 @@
 # FNP-Delivery-Model-Analysis
 
-A data driven analysis to understand whether FNP operates primarily as a Planned delivery service or a Same Day fulfillment business.
+A Data-Driven Evaluation of Planned vs Same-Day Delivery Strategy
 
-*Project Overview*
+#Executive Summary
 
-This project analyzes FNP’s delivery patterns across cities, occasions, and timelines to evaluate:
+This project analyzes FNP’s delivery ecosystem to determine whether the company operates primarily as a same-day logistics provider or a planned gifting platform.
+Using order-level delivery timelines, city-level distribution, and occasion-based demand patterns, the analysis reveals that:
 
->Whether FNP functions as a same-day delivery company
+>FNP is fundamentally a planned delivery business, with same-day fulfillment functioning as a selective, emotion-driven capability rather than a core operational model.
 
->The extent of dependency on 4+ day planned deliveries
-
->Geographic concentration of delivery timelines
-
->Situations where same-day delivery actually makes business sense
 
 
