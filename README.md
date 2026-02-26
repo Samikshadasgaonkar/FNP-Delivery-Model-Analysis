@@ -1,6 +1,6 @@
 # FNP-Delivery-Model-Analysis
 
-A Data-Driven Evaluation of Planned vs Same-Day Delivery Strategy
+A Data Driven Evaluation of Planned vs Same Day Delivery Strategy
 
 ## Table of content
 - <a href="#executive-summary">Executive Summary</a>
