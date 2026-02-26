@@ -6,6 +6,7 @@ A Data-Driven Evaluation of Planned vs Same-Day Delivery Strategy
 - <a href="#executive-summary">Executive Summary</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#analysis-&-findings">Analysis & Findings</a>
+- <a href="#dashboard">Dashboard</a>
 - <a href="#tools-&-technologies-used">Tools & Technologies Used</a>
 - <a href="#business-conclusions">Business Conclusions</a>
 - <a href="#future-scope">Fututre Scope</a>
@@ -115,7 +116,17 @@ Answering these questions enables better operational planning, marketing positio
 
   - Same day delivery is a strategic, occasion driven feature, not a scalable core model for FNP.
 
-  
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+  ### Page 1 – Overall Delivery Model Assessment
+  <img src="images/FNP1.png" width="700"/>
+
+  ### Page 2 – City-Level Delivery Dependence
+  <img src="images/FNP2.png" width="700"/>
+
+  ### Page 3 – Where Same-Day Delivery Makes Sense
+  <img src="images/FNP3.png" width="700"/>
+
 <h2><a class="anchor" id="tools-&-technologies-used"></a>Tools & Technologies Used</h2>
 
 * Power BI (Dashboard Visualization)
