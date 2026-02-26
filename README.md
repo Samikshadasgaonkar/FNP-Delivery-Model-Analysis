@@ -68,7 +68,7 @@ Answering these questions enables better operational planning, marketing positio
 * Conclusion:-
   - FNP primarily operates as a planned gifting and scheduled delivery platform, not a rapid same day logistics company.
 
-### 2.City-Level Delivery Dependence
+### 2.City Level Delivery Dependence
 
 * Key Observations:-
 
@@ -88,7 +88,7 @@ Answering these questions enables better operational planning, marketing positio
 * Conclusion:-
     - FNP’s logistics strategy is heavily optimized around advance scheduling, especially in high volume cities.
 
-### 3.Where Same-Day Delivery Makes Sense
+### 3.Where Same Day Delivery Makes Sense
 
 * Key Metrics:-
 
@@ -121,10 +121,10 @@ Answering these questions enables better operational planning, marketing positio
   ### Page 1 – Overall Delivery Model Assessment
   <img src="images/FNP1.png" width="700"/>
 
-  ### Page 2 – City-Level Delivery Dependence
+  ### Page 2 – City Level Delivery Dependence
   <img src="images/FNP2.png" width="700"/>
 
-  ### Page 3 – Where Same-Day Delivery Makes Sense
+  ### Page 3 – Where Same Day Delivery Makes Sense
   <img src="images/FNP3.png" width="700"/>
 
 <h2><a class="anchor" id="tools-&-technologies-used"></a>Tools & Technologies Used</h2>
